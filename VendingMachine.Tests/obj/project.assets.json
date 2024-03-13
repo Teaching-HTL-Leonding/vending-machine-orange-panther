@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\VendingMachine.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\VendingMachine.Tests.csproj",
       "projectName": "VendingMachine.Tests",
-      "projectPath": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\VendingMachine.Tests.csproj",
+      "projectPath": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\VendingMachine.Tests.csproj",
       "packagesPath": "C:\\Users\\Kathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\obj\\",
+      "outputPath": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kathi\\AppData\\Roaming\\NuGet\\NuGet.Config",

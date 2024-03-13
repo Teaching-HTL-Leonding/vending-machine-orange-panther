@@ -27,4 +27,7 @@ public static class Coin
 
         return coin;
     }
+
+    public static int ParseAny(string coin)
+        => coin[^1] == 'E' ? (int)(decimal.Parse(coin[..^1]) * 100) : int.Parse(coin[..^1]);
 }

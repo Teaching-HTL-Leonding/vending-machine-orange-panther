@@ -24,6 +24,8 @@ public class CoinTests
     {
         Assert.Throws<FormatException>(() => Coin.Parse(coin));
     }
+
+    // if Coin was non-static
     // [Fact]
     // public void Parse_WhenCoinInputIsValid_ShouldReturnIntValue()
     // {
