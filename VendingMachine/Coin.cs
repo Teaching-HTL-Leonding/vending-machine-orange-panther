@@ -1,8 +1,8 @@
 namespace VendingMachine.Logic;
 
-public class Coin
+public static class Coin
 {
-    public int Parse(string input)
+    public static int Parse(string input)
     {
         var validCoins = new string[] { "10C", "20C", "50C", "1E", "2E" };
 
