@@ -1,0 +1,15 @@
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.exe
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.deps.json
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.runtimeconfig.json
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.dll
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\bin\Debug\net8.0\VendingMachine.pdb
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfoInputs.cache
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.AssemblyInfo.cs
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.csproj.CoreCompileInputs.cache
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.sourcelink.json
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.dll
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\refint\VendingMachine.dll
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.pdb
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\VendingMachine.genruntimeconfig.cache
+c:\Users\Kathi\Dokumente\cs-codes\2nd-grade\018-VendingMachine\VendingMachine\obj\Debug\net8.0\ref\VendingMachine.dll

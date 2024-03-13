@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj": {}
+    "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj": {
+    "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj",
+        "projectUniqueName": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj",
+        "projectPath": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj",
         "packagesPath": "C:\\Users\\Kathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\obj\\",
+        "outputPath": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

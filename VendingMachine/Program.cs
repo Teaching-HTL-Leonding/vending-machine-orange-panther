@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using VendingMachine.Logic;
+
+var coin = new Coin();
+coin.Parse("10C");

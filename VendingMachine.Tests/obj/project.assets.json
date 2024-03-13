@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "VendingMachine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VendingMachine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VendingMachine.dll": {}
+        }
       }
     }
   },
@@ -5507,11 +5517,17 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "VendingMachine/1.0.0": {
+      "type": "project",
+      "path": "../VendingMachine/VendingMachine.csproj",
+      "msbuildProject": "../VendingMachine/VendingMachine.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "VendingMachine >= 1.0.0",
       "coverlet.collector >= 6.0.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5543,7 +5559,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj": {
+              "projectPath": "c:\\Users\\Kathi\\Dokumente\\cs-codes\\2nd-grade\\018-VendingMachine\\VendingMachine\\VendingMachine.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -5593,7 +5613,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
